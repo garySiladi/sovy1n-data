@@ -1,6 +1,7 @@
 {
   "books": [
   {
+    "id": 0,
     "FileName": "a-skinful-of-shadows-by-frances-hardinge",
     "ProductName": "A Skinful of Shadows by Frances Hardinge",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -8,6 +9,7 @@
     "Price": 19
   },
   {
+    "id": 1,
     "FileName": "e-s-thomsons-dark-asylum",
     "ProductName": "E. S. Thomson's Dark Asylum",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -15,6 +17,7 @@
     "Price": 20
   },
   {
+    "id": 2,
     "FileName": "english-uprising-by-paul-stocker",
     "ProductName": "Pajtim Statovci's My Cat Yugoslavia",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -22,6 +25,7 @@
     "Price": 19
   },
   {
+    "id": 3,
     "FileName": "iain-sinclairs-the-last-london",
     "ProductName": "Iain Sinclair's The Last London",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -29,6 +33,7 @@
     "Price": 20
   },
   {
+    "id": 4,
     "FileName": "illustrated-guide-to-dyslexia-and-its-amazing-people",
     "ProductName": "Illustrated Guide to Dyslexia and its Amazing People",
     "ProductDescription": "",
@@ -36,6 +41,7 @@
     "Price": 25
   },
   {
+    "id": 5,
     "FileName": "james-gleicks-time-travel",
     "ProductName": "James Gleick's Time Travel",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -43,6 +49,7 @@
     "Price": 20
   },
   {
+    "id": 6,
     "FileName": "kamila-shamsies-home-fire",
     "ProductName": "Kamila Shamsie's Home Fire",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -50,6 +57,7 @@
     "Price": 17
   },
   {
+    "id": 7,
     "FileName": "nicholas-rankins-defending-the-rock",
     "ProductName": "Nicholas Rankin's Defending the Rock",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -57,6 +65,7 @@
     "Price": 21
   },
   {
+    "id": 8,
     "FileName": "orhan-pamuks-the-red-haired-woman",
     "ProductName": "Orhan Pamuk's The Red-Haired Woman",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -64,6 +73,7 @@
     "Price": 15
   },
   {
+    "id": 9,
     "FileName": "paul-sahres-two-dimensional-man",
     "ProductName": "Paul Sahre's Two-Dimensional Man",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -71,6 +81,7 @@
     "Price": 19
   },
   {
+    "id": 10,
     "FileName": "prick-by-gynelle-leon",
     "ProductName": "Prick by Gynelle Leon",
     "ProductDescription": "",
@@ -78,6 +89,7 @@
     "Price": 16
   },
   {
+    "id": 11,
     "FileName": "riot-days-by-maria-alyokhina",
     "ProductName": "Riot Days by Maria Alyokhina",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -85,6 +97,7 @@
     "Price": 20
   },
   {
+    "id": 12,
     "FileName": "the-anthill-murders-by-hans-olav-lahlum",
     "ProductName": "The Anthill Murders by Hans Olav Lahlum",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -92,6 +105,7 @@
     "Price": 23
   },
   {
+    "id": 13,
     "FileName": "the-beast-by-alexander-starritt",
     "ProductName": "The Beast by Alexander Starritt",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
@@ -99,6 +113,7 @@
     "Price": 22
   },
   {
+    "id": 14,
     "FileName": "the-huntress-sky-by-sarah-driver",
     "ProductName": "The Huntress: Sky by Sarah Driver",
     "ProductDescription": "Perspiciatis rerum commodi dolore consequatur voluptates accusantium velit. Aut dicta iusto neque ea voluptates. Ducimus est ut neque sunt eum iusto. Consequatur quia occaecati enim omnis repudiandae labore.",
